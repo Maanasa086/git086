@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ECEabc
+=======
+rmdec
+>>>>>>> 6493dcc (Added rmdec to maanasa.txt)
